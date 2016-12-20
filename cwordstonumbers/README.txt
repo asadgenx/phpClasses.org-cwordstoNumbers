@@ -40,3 +40,10 @@ LIMITATIONS:
 
 -- Using wrong ordered words might create a chaos (I am not responsible if your machine explodes)
 
+-- Currently Supports only ENGLISH LANGUAGE
+
+LANGUAGE SUPPORT:
+----------------------
+
+
+ONLY ENGLISH
